@@ -4,9 +4,9 @@ Retrouve ici les outils, guides et ressources en libre accès que je partage dan
 
 ## Préparer des clips à partir de ses lives
 
-**Twitch Clipper** · En préparation
+**[Twitch Clipper](https://github.com/skyfallcloud/Twitch-Clipper-)**
 
-Transformer une VOD Twitch ou un MP4 en clips verticaux pour les réseaux sociaux. Le guide expliquera comment choisir un passage, ajuster son titre et faire un premier essai avec un fichier d’exemple.
+Transformer une VOD Twitch ou un MP4 en clips verticaux pour les réseaux sociaux. Le guide permet de lancer un premier essai, de choisir ses passages et de personnaliser le nombre de clips, le titre, le cadrage et les sous-titres.
 
 ## Autres projets
 
